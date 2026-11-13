@@ -1,0 +1,33 @@
+<svg width="900" height="190" viewBox="0 0 900 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="190" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#181825" />
+      <stop offset="65%" stop-color="#1e1e2e" />
+      <stop offset="100%" stop-color="#2a243d" />
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#cba6f7" />
+      <stop offset="50%" stop-color="#89b4fa" />
+      <stop offset="100%" stop-color="#a6e3a1" />
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="190" rx="14" fill="url(#bg)" stroke="#313244" stroke-width="1.5" />
+  <circle cx="820" cy="40" r="95" fill="#cba6f7" fill-opacity="0.06" />
+  <circle cx="860" cy="160" r="75" fill="#89b4fa" fill-opacity="0.05" />
+
+  <!-- Кнопки окна -->
+  <circle cx="32" cy="28" r="5" fill="#f38ba8" />
+  <circle cx="50" cy="28" r="5" fill="#f9e2af" />
+  <circle cx="68" cy="28" r="5" fill="#a6e3a1" />
+  <text x="90" y="32" fill="#6c7086" font-family="JetBrains Mono, Consolas, monospace" font-size="12">lenny@127.0.0.1 ~ /RDF1337</text>
+
+  <!-- Заголовок -->
+  <text x="32" y="94" fill="#cdd6f4" font-family="JetBrains Mono, Segoe UI, sans-serif" font-size="38" font-weight="700">Lenny <tspan fill="#cba6f7">//</tspan> RDF1337</text>
+
+  <!-- Подзаголовок -->
+  <text x="32" y="128" fill="#bac2de" font-family="JetBrains Mono, Segoe UI, sans-serif" font-size="15">SysAdmin • Python Automation • Network & Proxy Tooling</text>
+
+  <!-- Акцентная полоса -->
+  <rect x="32" y="156" width="190" height="4" rx="2" fill="url(#bar)" />
+</svg>
