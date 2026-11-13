@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RDF1337/RDF1337/main/banner.svg?v=2" alt="Lenny // RDF1337" width="100%" />
+<img src="./banner.svg" alt="Lenny // RDF1337" width="100%" />
 
 <br/>
 
